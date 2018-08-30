@@ -1,7 +1,7 @@
 CV
 ==
 
-| &nbsp;        | &nbsp;       | &nbsp;|
+|               |              |       |
 | :------------ |:-------------| -----:|
 | **Name** 	    | Dmitry Murzinov | |
 | **Education** | M.Sc. in Radio Engineering at the Power Engineering Institute (Russia) | |
