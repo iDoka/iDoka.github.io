@@ -1,7 +1,7 @@
 CV
 ==
 
-|               |              |       |
+| &nbsp;        | &nbsp;       | &nbsp;|
 | :------------ |:-------------| -----:|
 | **Name** 	    | Dmitry Murzinov | |
 | **Education** | M.Sc. in Radio Engineering at the Power Engineering Institute (Russia) | |
@@ -33,9 +33,3 @@ NOTABLE PROJECTS
 ```markdown
 [Link](url) and ![Image](src)
 ```
-
-| Tables        | Are           | Cool |
-| ------------- |:-------------:| ----:|
-| col 3 is      | right-aligned | 1600 |
-| col 2 is      | centered      |   12 |
-| zebra stripes | are neat      |    1 |
