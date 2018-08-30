@@ -1,14 +1,15 @@
 # CV
 
-`Name 	   ` Dmitry Murzinov
-`Education ` M.Sc. in Radio Engineering at the Power Engineering Institute (Russia)
-`Residence ` Russia
-`E-mail    ` job@idoka.ru
-`Web       ` http://idoka.ru
+  `Name 	   ` Dmitry Murzinov
+  `Education ` M.Sc. in Radio Engineering at the Power Engineering Institute (Russia)
+  `Residence ` Russia
+  `E-mail    ` job@idoka.ru
+  `Web       ` http://idoka.ru
 
 
 PROFESSIONAL SKILLS
 -------------------
+---
 
 ### ASIC/VLSI
 
@@ -20,7 +21,7 @@ PROFESSIONAL SKILLS
 
 NOTABLE PROJECTS
 ----------------
-
+---
 
 
 ### Comments
