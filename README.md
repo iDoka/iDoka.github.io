@@ -1,20 +1,31 @@
 # CV
 
-Some text
+`Name 	   ` Dmitry Murzinov
+`Education ` M.Sc. in Radio Engineering at the Power Engineering Institute (Russia)
+`Residence ` Russia
+`E-mail    ` job@idoka.ru
+`Web       ` http://idoka.ru
 
-## Skill
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PROFESSIONAL SKILLS
+-------------------
 
-```verilog
-wire [31:0] a;
-```
+### ASIC/VLSI
+
+### FPGA
+
+### Embedded
+
+
+
+NOTABLE PROJECTS
+----------------
+
+
+
+### Comments
 
 ```markdown
-# Header 1
-## Header 2
-### Header 3
-
 - Bulleted
 - List
 
@@ -25,7 +36,3 @@ wire [31:0] a;
 
 [Link](url) and ![Image](src)
 ```
-
-## Project
-
-### First Project
