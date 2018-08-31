@@ -65,7 +65,7 @@ PUBLICATIONS
 3. [**US9759753B2** Digital sweep type spectrum analyzer with up/down frequency conversion](https://patents.google.com/patent/US9759753B2/); Inventor: Dmitry Murzinov, Igor Orlovsky, Victor Prasolov, Andrey Veitsel; Priority 2014-11-18
 
 
-ALAILABLE EQUIPMENTS
+AVAILABLE EQUIPMENTS
 --------------------
 ***
 
