@@ -5,7 +5,7 @@ CV
 | :------------ |:-------------|
 | **Name** 	    | Dmitry Murzinov |
 | **Education** | M.Sc. in Radio Engineering at the Power Engineering Institute |
-| **Residence** | Russia |
+| **Residence** | EU |
 | **Web**       | <http://idoka.ru> |
 | **E-mail**    | <job@idoka.ru> |
   
@@ -23,10 +23,18 @@ PROFESSIONAL SKILLS
 
 
 
-OPENSOURCE PROJECTS
--------------------
+PROJECTS
+--------
 ***
 
+### OPENSOURCE
+
+1. [ASIC Pinout Drawer](https://github.com/iDoka/asic-pinout-drawer) - This is easy to use pin assignment generator for IC case. Project is opensource (MIT license). Tool converting AsciiDoc pin description table to vector image (SVG format) that contains chip pinout with pin name and color coding (if needed) the type of pin for inserting into final documentation.
+2. [Hamming and SECDED Verilog Generator](https://github.com/iDoka/hdl-secded-producer) - MATLAB/Octave generator of Hamming ECC coder/decoder. Output format is Verilog HDL. Optional adding atop Hamming Coding extra parity bit we have a Single Error Correction/Double Error Detection (SEC/DED) algorithm.
+3. [EDA Scripts](https://github.com/iDoka/eda-scripts) - Collect of various scripts for helping work with EDA-tools (ASIC, Xilinx FPGA, etc)
+
+
+### COMMERCIAL
 
 
 PUBLICATIONS
