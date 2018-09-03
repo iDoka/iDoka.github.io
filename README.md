@@ -148,7 +148,7 @@ AVAILABLE EQUIPMENTS
   * nRF24-based dongle with sniffer FW
 * Logic Analyzer:
   * DSlogic16 pro
-	* Saleae-clone FX2-based
+  * Saleae-clone FX2-based
 * Osciloscopes:
 	* Rigol DS-1052E
 * Multimeters:
