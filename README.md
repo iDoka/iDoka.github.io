@@ -1,9 +1,6 @@
 
 ![](img/skillscloud.png?raw=true "Skills cloud should be right here")
 
-CV
-==
-
 |               |              |
 | :------------ |:-------------|
 | **Name** 	    | Dmitry Murzinov |
