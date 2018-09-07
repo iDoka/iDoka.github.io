@@ -1,7 +1,8 @@
+
+![](img/skillscloud.png?raw=true "Skills cloud should be right here")
+
 CV
 ==
-
-![](img/skillscloud.png?raw=true)
 
 |               |              |
 | :------------ |:-------------|
