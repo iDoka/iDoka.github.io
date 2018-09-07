@@ -1,6 +1,8 @@
 CV
 ==
 
+![](img/skillscloud2.png?raw=true)
+
 |               |              |
 | :------------ |:-------------|
 | **Name** 	    | Dmitry Murzinov |
