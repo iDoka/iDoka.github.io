@@ -1,7 +1,7 @@
 CV
 ==
 
-![](img/skillscloud2.png?raw=true)
+![](img/skillscloud.png?raw=true)
 
 |               |              |
 | :------------ |:-------------|
