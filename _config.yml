@@ -4,7 +4,7 @@ show_downloads: false
 google_analytics: 
 theme: jekyll-theme-minimal
 #theme: jekyll-theme-tactile
-highlighter: rogue
+highlighter: rouge
 
 url: "http://cv.idoka.ru"
 lsi: false
