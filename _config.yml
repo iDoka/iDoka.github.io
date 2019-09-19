@@ -1,6 +1,15 @@
 title: Dmitry Murzinov
-description: ASIC/VLSI Design Expert          
+description: ASIC/FPGA Design Expert          
 show_downloads: false
 google_analytics: 
 theme: jekyll-theme-minimal
 #theme: jekyll-theme-tactile
+highlighter: rogue
+
+url: "http://cv.idoka.ru"
+lsi: false
+
+exclude: [LICENSE, CNAME, .gitignore. Gemfile, Gemfile.lock]
+
+# build setting
+permalink: pretty
